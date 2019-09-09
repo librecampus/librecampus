@@ -1,4 +1,4 @@
-![Librecampus Logo](../master/assets/images/logos/librecampus-logo.png)
+![Librecampus Logo](https://github.com/librecampus/librecampus/blob/master/assets/images/logos/logo-librecampus-transparent.png?raw=true)
 
 # Librecampus
 
