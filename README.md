@@ -2,7 +2,7 @@
 
 # Librecampus
 
-An modern, flexible, usable opensource virtual campus web app for higher education institutions 
+A modern, flexible, usable opensource virtual campus web app for higher education institutions 
 powered by React, Django, PostgreSQL and Redis.
 
 ## Motivation
