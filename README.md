@@ -12,7 +12,7 @@ using a modern, flexible, usable virtual campus web application supporting among
 
 * Academic records including grades from past and current courses.
 * Enrollment information, class schedules, course progress status, assigment and grading information.
-* Course material distribution and collection including assigment uploads within scheduled time frames.
+* Course material distribution and collection including assignment uploads within scheduled time frames.
 * Periodic polling on professor performance and academic services quality.
 
 ## Main technologies
@@ -32,13 +32,13 @@ using a modern, flexible, usable virtual campus web application supporting among
 
 ## Contributing
 
-We're actively looking for domain expert participantion and code contributors. 
+We're actively looking for domain expert participation and code contributors. 
 If you want to participate please get in touch with us at [proyecto.librecampus@gmail.com](mailto://proyecto.librecampus@gmail.com) to contact the leadership team.
 
 ## License, copyright and trademarks
 
-Librecampus software is licensed under [GPL, version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+Librecampus software is licensed under [AGPL, version 3](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
 &copy; Librecampus contributors, 2019.
 
-"Librecampus" is not yet a trademark or service mark registered.
+"Librecampus" is not yet a trademark or registered service mark in any country as far as we, the contributor, are aware of.
